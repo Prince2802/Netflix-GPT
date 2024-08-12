@@ -24,6 +24,12 @@
     @tailwind components;
     @tailwind utilities;
 
+- Imported React Routing
+  - npm i -D react-router-dom
+- Header
+- Login Form
+- Sign Up Form
+
 # Features
 
 - Login/Sign Up

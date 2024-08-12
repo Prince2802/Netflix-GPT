@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import Body from './components/Body.js';
 
 function App() {
   return (
     <div>
-      <p className="m-2 text-4xl text-green-600">New Project</p>
-      <div></div>
+      <Body />
     </div>
   );
 }
