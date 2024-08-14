@@ -26,9 +26,12 @@
 
 - Imported React Routing
   - npm i -D react-router-dom
+- Routing
 - Header
 - Login Form
 - Sign Up Form
+- Form Validation
+- useRef Hook
 
 # Features
 
